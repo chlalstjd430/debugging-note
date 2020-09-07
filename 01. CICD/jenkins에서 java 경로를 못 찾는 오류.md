@@ -50,7 +50,7 @@ java.io.IOException: Java not found on hudson.slaves.SlaveComputer@27eabc60. Ins
 [09/07/20 11:14:42] [SSH] Connection closed.
 ~~~
 
-## 문제 원인ㄷ
+## 문제 원인
 
 자바 경로를 찾을 수 없어서 그렇다.
 
